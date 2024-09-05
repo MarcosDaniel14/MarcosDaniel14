@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos Daniel da Silva Lima
 - 👀 I’m interested in Development in general, Intelligent Systems and Automation
 - 🌱 I’m currently learning C, HTML, CSS, Javascript, Python, NoCode AI
-- 📫 How to reach me: Marcos.d.s.lima1408@gmail.com
+- 📫 How to reach me on Marcos.d.s.lima1408@gmail.com
 - ⚡ Fun fact: As a child, my dream was to be a game developer, and I have some really good ideas...
